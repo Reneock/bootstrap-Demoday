@@ -1,0 +1,72 @@
+.row1 h2{
+	color: gold;
+	font-weight: 900;
+}
+
+.row1 span{
+	color: royalblue;
+}
+
+.row1 h5{
+	font-weight: 700;
+	font-size: medium;
+}
+
+.rowtab{
+	font-style: italic;
+	justify-content: space-between;
+	word-spacing: 0.35em;
+	font-size: small;
+}
+
+.rowtab span{
+	color: grey;
+}
+
+.rowtab mark{
+	background-color: gold;
+}
+
+.info{
+	border: 2px solid gold;
+	height: 40px;
+	color: blue;
+	font-size: x-small;
+	width: 450px;
+}
+
+.update{
+	font-size: small;
+}
+
+.base mark{
+	background-color: hotpink;
+	margin-left: 30px;
+}
+
+.base p{
+	font-size: small;
+
+}
+
+.base span{
+	color: gold;
+	font-size: small;
+	margin-left: 30px;
+}
+
+.final{
+	font-weight: 700;
+}
+
+.final span{
+	margin-left: 50px;
+}
+
+.footer{
+  text-align: center;
+  color: blueviolet;
+  font-weight: bold;
+  font-size: small;
+  margin-top: 30px;
+}

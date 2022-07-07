@@ -1,0 +1,67 @@
+body{
+
+
+  }
+
+.online-bar{
+  padding-right: 662px;
+  color: darkmagenta;
+}
+
+.search-bar{
+  padding-left: 150px;
+
+}
+
+.jumb-page{
+  background-image: url("https://media.istockphoto.com/photos/ghanaian-fabric-picture-id1346502295?k=20&m=1346502295&s=612x612&w=0&h=fPYW4dPAVcFMc5941asVd0062_OvgI015b5RFlC_8hM=");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumb-page h1{
+  color: black;
+  text-align: center;
+  font-weight: bold;
+}
+
+.jumb-page p{
+  color: black;
+  text-align: center;
+  padding-top: 70px;
+  font-weight: bold;
+}
+
+.img1{
+  height: 365px;
+}
+
+.img2{
+  height: 380px;
+}
+
+.img3{
+  height: 405px;
+}
+
+.footer1{
+  margin-right: 20px;
+}
+
+.footer2{
+  background-color: gold;
+  color: blueviolet;
+}
+
+.footer{
+  text-align: center;
+  color: blueviolet;
+  font-weight: bold;
+}
+
+.btn{
+  background-color: blue;
+  color: white;
+  border-radius: 15px;
+  font-size: small;
+}
